@@ -8,4 +8,5 @@ I got frustrated with the usual tennis ball on a string method for positioning t
 The list of materials:
 
 *Lasers ([Amazon](https://www.amazon.com/gp/product/B071FT9HSV/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1))
+
 *Mini Ball Head Screw Tripod Mount ([Amazon](https://www.amazon.com/gp/product/B01CQAQOSI/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)) 
