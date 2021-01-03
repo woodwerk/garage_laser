@@ -16,4 +16,10 @@ I got frustrated with the usual tennis ball on a string method for positioning t
 * 1/4-20 x 3/8" socket-head cap screw to attach mounting plate to ball head
 * USB cable with A-type connector on one end
 * USB power adapter
-* Light-bulb power ([like this](https://www.amazon.com/Adapter-Splitter-Converts-Polarized-Outlet-UL/dp/B07Y4RBR4J/ref=sr_1_2_sspa?crid=1PZ7P5BOVE9HT&dchild=1&keywords=light+bulb+power+outlet&qid=1609709628&sprefix=light+bulb+power+%2Caps%2C211&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVFBVR0lTSFdOS1pWJmVuY3J5cHRlZElkPUEwNzQxMjMyM0RUSFAxWjhPNzdRUyZlbmNyeXB0ZWRBZElkPUEwMDQwMDYzMlA2U1ZDM0pIUTBTTSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=))
+* Light-bulb power outlet ([like this](https://www.amazon.com/Adapter-Splitter-Converts-Polarized-Outlet-UL/dp/B07Y4RBR4J/ref=sr_1_2_sspa?crid=1PZ7P5BOVE9HT&dchild=1&keywords=light+bulb+power+outlet&qid=1609709628&sprefix=light+bulb+power+%2Caps%2C211&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVFBVR0lTSFdOS1pWJmVuY3J5cHRlZElkPUEwNzQxMjMyM0RUSFAxWjhPNzdRUyZlbmNyeXB0ZWRBZElkPUEwMDQwMDYzMlA2U1ZDM0pIUTBTTSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=))
+
+Attach the mounting plate to the ceiling. Insert the light-bulb power outlet into the light fixture of the garage door opener light fixture and plug the USB adapter into the new outlet and the USB cable into the adapter. When the door opens and the light comes on, the laser is powered.
+
+Two views of the enclosure: front (laser) and back (1/4-20 mount) are shown below:
+![](/img/head_laser.png)
+![](/img/head_mount.png)
